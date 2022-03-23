@@ -29,3 +29,5 @@
 <a href="https://www.behance.net/pedroniels" target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"></a>
 <a href="https://instagram.com/opedroniels" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+
+   ![Snake animation](https://github.com/opedroniels/opedroniels/blob/output/github-contribution-grid-snake.svg)
