@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/opedroniels">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=opedroniels&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opedroniels&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=opedroniels&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opedroniels&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Pniels-Photoshop" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>
@@ -16,7 +16,6 @@
   <img align="center" alt="Pniels-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Pniels-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Pniels-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <a href = "https://www.behance.net/pedroniels" target="_blank"> <img align="center" alt="Pniels-Behance" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" />
     <imgfe align="right" alt="Pniels-pic" height="150" style="border-radius:50px;" src="https:">
   
 </div>
