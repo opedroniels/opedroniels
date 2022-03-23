@@ -9,9 +9,7 @@
   <img height="131em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opedroniels&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
-##
-
-  <div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="Pniels-Photoshop" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>
   <img align="center" alt="Pniels-Illustrator" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
   <img align="center" alt="Pniels-Illustrator" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
